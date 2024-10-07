@@ -29,7 +29,6 @@
  
   <!-- ![Snake animation](https://github.com/YannDarkz/YannDarkz/blob/output/github-contribution-grid-snake.svg) -->
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YannDarkz&theme=react-dark)
 
 
 
