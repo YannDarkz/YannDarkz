@@ -1,4 +1,4 @@
-## Bem vindo(a) ao perfil do DarkZinnn
+## Bem vindo(a) ao perfil do Yann Zhn
 
 <div>
   <a href="https://github.com/YannDarkz">
@@ -11,14 +11,19 @@
 
 <!-- ![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=YannDarkz&show_icons=true&bg_color=00000000) -->
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+<br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="CSS" height="30" width="30" src="./src/images/file_type_scss_icon_130177.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="CSS" height="30" width="30" src="./src/images/typescript.png">
-   <img align="center" alt="CSS" height="30" width="30" src="./src/images/nodeJs.png">
-   <img align="center" alt="CSS" height="30" width="30" src="./src/images/file_type_reactjs_icon_130205.svg">
+   <img align="center" alt="ts" height="30" width="30" src="./src/images/typescript.png">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" >
+     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
+
+
 </div>
  
  <br>
