@@ -1,11 +1,6 @@
 ## Bem vindo(a) ao perfil do Yann Zhn
 
-<div>
-  <a href="https://github.com/YannDarkz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannDarkz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannDarkz&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?YannDarkz=anuraghazra&hide=contribs,prs) -->
 
@@ -22,13 +17,20 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" >
      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo" />
-
-
 </div>
  
  <br>
+
+ <div>
+  <a href="https://github.com/YannDarkz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannDarkz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannDarkz&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
+
+<br>
  
-  ### Para conteúdo sobre programação me segue nas redes abaixo!
+  ### 📢 Conecte-se Comigo :
  
 <div> 
  <a href="https://discord.gg/QKtrpXPZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
